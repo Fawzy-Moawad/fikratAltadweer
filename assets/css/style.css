@@ -141,7 +141,10 @@ h6 {
   font-weight: 700;
   letter-spacing: 3px;
   padding-left: 10px;
-  border-left: 4px solid #18d26e;
+}
+
+#header .logo span{
+  color: #1ee57a;
 }
 
 #header .logo a {
@@ -1112,6 +1115,7 @@ section {
   display: block;
   font-size: 14px;
   color: #6c757d;
+
 }
 
 .team .member p {
@@ -1988,4 +1992,8 @@ section {
   text-align: center;
   font-size: 13px;
   color: #ddd;
+}
+
+footer .copyright span {
+  color: #18d26e;
 }
